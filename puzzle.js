@@ -124,6 +124,5 @@ function next4(){
 }
 
 function next5(){
-  document.getElementById('riddle5').style.display="none";
   alert("The End");
 }
