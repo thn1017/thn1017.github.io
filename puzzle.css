@@ -1,0 +1,32 @@
+body{
+   font-family: Verdana, Arial,Helvetica, sans-serif;
+}
+h1#title{padding-top:30px;
+  text-align: center;
+    font-size: 38px;
+    color:LightYellow ;
+  }
+p#title1{text-align: center;
+     font-weight:bold;
+      font-size: 22px;
+      color:black;
+      background-color:LemonChiffon
+    }
+p#style2{
+  font-size: 16px;
+  text-align: center;
+  font-family: Georgia, "Times New Roman",
+ Times, serif;
+ color:LightYellow;   
+}
+
+div.bt{
+  text-align: center;
+}
+
+div.bt button{
+  background: LightYellow;
+  border-radius: 8px;
+  font-size: 20px;
+  color:black;
+}
